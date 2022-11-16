@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.stu {
+  width: 300px;
+
+  padding: 25px;
+  margin: 25px 100px;
+  text-align: center;
+  font-family: comic sans ms;
+  font-size: 25px;
+
+  border: solid 1px gray;
+  box-shadow: 0 5px 2px gray;
+  display: inline-block;
+}
+
+.stu1 {
+  width: 550px;
+  padding: 25px;
+  margin: 25px 100px;
+  text-align: center;
+  font-family: comic sans ms;
+  font-size: 25px;
+  border: solid 1px gray;
+  box-shadow: 0 5px 2px gray;
+ 
+}
+
+.card-width {
+  width: 18rem;
+  height: 17rem;
+  margin: 10px;
+}
+

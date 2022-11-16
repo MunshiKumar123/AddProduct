@@ -1,0 +1,61 @@
+{
+  "name": "my_react-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@apollo/client": "^3.6.9",
+    "@material-ui/core": "^4.12.4",
+    "@reduxjs/toolkit": "^1.8.5",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.1.1",
+    "@testing-library/user-event": "^13.5.0",
+    "ag-grid-community": "^28.1.1",
+    "ag-grid-react": "^28.1.1",
+    "axios": "^0.27.2",
+    "bootstrap": "^5.1.3",
+    "firebase": "^9.8.3",
+    "formik": "^2.2.9",
+    "graphql": "^16.6.0",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.4.0",
+    "react-data-grid": "^7.0.0-beta.16",
+    "react-dom": "^17.0.2",
+    "react-dropbox-chooser": "^0.0.5",
+    "react-redux": "^8.0.2",
+    "react-router-dom": "^5.3.3",
+    "react-scripts": "5.0.1",
+    "react-textarea-autosize": "^8.3.4",
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.4.1",
+    "use-debounce": "^8.0.4",
+    "web-vitals": "^2.1.4",
+    "yup": "^0.32.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
