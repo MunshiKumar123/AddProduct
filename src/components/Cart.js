@@ -59,7 +59,7 @@ const Cart = (props) => {
             <h4 className="text-right text-success">
               Total Price : {totalPrice}
             </h4>
-          </div>{" "}
+          </div>
         </div>
       </div>
     </>

@@ -27,7 +27,6 @@ const ProductSlice = createSlice({
 
       state.carts = [...state.carts, cartItem];
     },
-
     RemoveCartItem: (state, acttion) => {
       const remailItems = state.carts.filter((item) => {
         return item.id !== acttion.payload;
