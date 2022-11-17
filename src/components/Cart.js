@@ -55,7 +55,7 @@ const Cart = (props) => {
                 )}
               </tbody>
             </table>
-            <NavLink to="/main"> Back to Products</NavLink>
+            <NavLink to="/main">Continue Shopping</NavLink>
             <h4 className="text-right text-success">
               Total Price : {totalPrice}
             </h4>
